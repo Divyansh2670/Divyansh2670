@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWImMLA9bQd4ejp91W5n5chQZfpomr5hWkKg&s)](https://Divyansh2670.io)
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)](https://Divyansh2670.io)
 
 <h1 align="center">Hi 👋, I'm Divyansh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
